@@ -1,0 +1,8 @@
+file_format: "1"
+id: southpaw75
+name: Southpaw75
+type: shield
+url: https://github.com/piit79/Southpaw75
+requires: [pro_micro]
+features:
+  - keys
