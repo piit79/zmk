@@ -1,0 +1,8 @@
+file_format: "1"
+id: unix60
+name: Unix60
+type: shield
+url: https://github.com/mkdl/Unix60
+requires: [pro_micro]
+features:
+  - keys
