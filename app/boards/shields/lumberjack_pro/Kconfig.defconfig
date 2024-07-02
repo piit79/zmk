@@ -1,0 +1,15 @@
+# Copyright (c) 2021 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_LUMBERJACK_PRO
+
+config ZMK_KEYBOARD_NAME
+    default "lumberjack_pro"
+
+if ZMK_RGB_UNDERGLOW
+
+config WS2812_STRIP
+    default y
+endif
+
+endif

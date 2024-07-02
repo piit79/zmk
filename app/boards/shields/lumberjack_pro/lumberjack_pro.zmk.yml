@@ -1,0 +1,10 @@
+file_format: "1"
+id: lumberjack_pro
+name: 42. Keebs Lumberjack Pro
+type: shield
+url: https://github.com/piit79/lumberjack-pro-keyboard
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
+  - underglow
