@@ -6,3 +6,4 @@ url: https://github.com/piit79/rev57lp
 requires: [pro_micro]
 features:
   - keys
+  - underglow
